@@ -12,7 +12,7 @@ pipeline{
         stage("First step"){
             steps{
                 echo "=============== start apache2 ==============="
-                sh "systemctl status apache2.service"
+                sh "sudo systemctl statr apache2.service"
             }
         }
     }
