@@ -1,0 +1,12 @@
+pipeline{
+    agent{
+        label "any"
+    }
+    stages{
+        stage("First"){
+            steps{
+                echo "systemctl start apache2.service"
+            }
+        }    
+    }
+}
