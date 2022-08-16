@@ -1,0 +1,47 @@
+package _Self.buildTypes
+
+import jetbrains.buildServer.configs.kotlin.*
+import jetbrains.buildServer.configs.kotlin.buildSteps.script
+import jetbrains.buildServer.configs.kotlin.triggers.finishBuildTrigger
+import jetbrains.buildServer.configs.kotlin.triggers.vcs
+
+object BuildStage2 : BuildType({
+    name = "Build_Stage_2"
+
+    artifactRules = "%system.teamcity.build.workingDir% => release_ver_%teamcity.build.id%.zip"
+    publishArtifacts = PublishMode.SUCCESSFUL
+
+    vcs {
+        root(HttpsGithubComFlameFlashyRbLess21refsHeadsMain, "+:Lesson6 => .")
+    }
+
+    steps {
+        script {
+            scriptContent = "sh ./executables.sh"
+        }
+        script {
+            scriptContent = "sh ./cmd_names.sh"
+        }
+        script {
+            scriptContent = "sh ./search_py.sh"
+        }
+        script {
+            scriptContent = "sh ./des_PID.sh"
+        }
+    }
+
+    triggers {
+        vcs {
+            enabled = false
+        }
+        finishBuildTrigger {
+            buildType = "${Build.id}"
+            successfulOnly = true
+        }
+    }
+
+    dependencies {
+        snapshot(Build) {
+        }
+    }
+})

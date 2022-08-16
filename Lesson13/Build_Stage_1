@@ -1,0 +1,36 @@
+package _Self.buildTypes
+
+import jetbrains.buildServer.configs.kotlin.*
+import jetbrains.buildServer.configs.kotlin.buildSteps.script
+import jetbrains.buildServer.configs.kotlin.triggers.vcs
+
+object Build : BuildType({
+    name = "Build"
+
+    artifactRules = "%system.teamcity.build.workingDir% => release_ver_%teamcity.build.id%.zip"
+    publishArtifacts = PublishMode.SUCCESSFUL
+
+    vcs {
+        root(HttpsGithubComFlameFlashyRbLess21refsHeadsMain, "+:Lesson5 => .", "+:Lesson6 => Lesson6")
+    }
+
+    steps {
+        script {
+            scriptContent = "sh ./etc.sh"
+        }
+        script {
+            scriptContent = "sh ./search_logs.sh"
+        }
+        script {
+            scriptContent = "sh ./usr_executable.sh"
+        }
+    }
+
+    triggers {
+        vcs {
+        }
+    }
+
+    failureConditions {
+        executionTimeoutMin = 10
+    }
