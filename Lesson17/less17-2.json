@@ -1,0 +1,57 @@
+{
+    "sku": {
+        "name": "Standard_LRS",
+        "tier": "Standard"
+    },
+    "kind": "StorageV2",
+    "id": "/subscriptions/453c5c5c-589a-4986-b254-bdde8c5cafd1/resourceGroups/NetworkWatcherRG/providers/Microsoft.Storage/storageAccounts/less17",
+    "name": "less17",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {},
+    "properties": {
+        "minimumTlsVersion": "TLS1_1",
+        "allowBlobPublicAccess": true,
+        "allowSharedKeyAccess": true,
+        "isHnsEnabled": true,
+        "networkAcls": {
+            "bypass": "AzureServices",
+            "virtualNetworkRules": [
+                {
+                    "id": "/subscriptions/453c5c5c-589a-4986-b254-bdde8c5cafd1/resourceGroups/NetworkWatcherRG/providers/Microsoft.Network/virtualNetworks/less17_vNet2717088/subnets/default",
+                    "action": "Allow",
+                    "state": "Succeeded"
+                }
+            ],
+            "ipRules": [],
+            "defaultAction": "Deny"
+        },
+        "supportsHttpsTrafficOnly": true,
+        "encryption": {
+            "services": {
+                "file": {
+                    "enabled": true,
+                    "lastEnabledTime": "2022-08-28T17:44:48.2832507Z"
+                },
+                "blob": {
+                    "enabled": true,
+                    "lastEnabledTime": "2022-08-28T17:44:48.2832507Z"
+                }
+            },
+            "keySource": "Microsoft.Storage"
+        },
+        "accessTier": "Hot",
+        "provisioningState": "Succeeded",
+        "creationTime": "2022-08-28T17:44:47.8613909Z",
+        "primaryEndpoints": {
+            "dfs": "https://less17.dfs.core.windows.net/",
+            "web": "https://less17.z6.web.core.windows.net/",
+            "blob": "https://less17.blob.core.windows.net/",
+            "queue": "https://less17.queue.core.windows.net/",
+            "table": "https://less17.table.core.windows.net/",
+            "file": "https://less17.file.core.windows.net/"
+        },
+        "primaryLocation": "westeurope",
+        "statusOfPrimary": "available"
+    }
+}
