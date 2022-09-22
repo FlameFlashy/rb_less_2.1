@@ -1,0 +1,47 @@
+{
+    "template_files": {},
+    "alertmanager_config": {
+        "route": {
+            "receiver": "grafana-default-email",
+            "routes": [
+                {
+                    "receiver": "Discord_for_me"
+                }
+            ]
+        },
+        "templates": null,
+        "receivers": [
+            {
+                "name": "grafana-default-email",
+                "grafana_managed_receiver_configs": [
+                    {
+                        "uid": "RoXY4EnVk",
+                        "name": "email receiver",
+                        "type": "email",
+                        "disableResolveMessage": false,
+                        "settings": {
+                            "addresses": "<example@email.com>"
+                        },
+                        "secureFields": {}
+                    }
+                ]
+            },
+            {
+                "name": "Discord_for_me",
+                "grafana_managed_receiver_configs": [
+                    {
+                        "uid": "gouYVPn4zz",
+                        "name": "Discord_for_me",
+                        "type": "discord",
+                        "disableResolveMessage": false,
+                        "settings": {
+                            "url": "https://discord.com/api/webhooks/1022606072546078770/_-8rnsYT4PVaJEpzvQDxmbaopHk8oIdRYz-77QP185GXGSHdi6o8kSUsuGKjn1aOZYuG",
+                            "use_discord_username": false
+                        },
+                        "secureFields": {}
+                    }
+                ]
+            }
+        ]
+    }
+}
