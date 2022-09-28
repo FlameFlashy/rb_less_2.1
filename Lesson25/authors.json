@@ -1,0 +1,1445 @@
+{
+    "_id": "authors",
+    "authors": [
+      [
+        "Tomas Petricek with Jon Skeet"
+      ],
+      [
+        "Arnaud Cogoluegnes",
+        "Thierry Templier",
+        "Gary Gregory",
+        "Olivier Bazoud"
+      ],
+      [
+        "Theo Petersen"
+      ],
+      [
+        "Norman Klein",
+        "Max Carlson with Glenn MacEwen"
+      ],
+      [
+        "Matthew E. Hodges"
+      ],
+      [
+        "Gal Shachor",
+        "Adam Chace",
+        "Magnus Rydin"
+      ],
+      [
+        "Gojko Adzic"
+      ],
+      [
+        "Bruce A. Tate"
+      ],
+      [
+        "Gary Scott Malkin"
+      ],
+      [
+        "Alexandre de Castro Alves"
+      ],
+      [
+        "G. Ann Campbell",
+        "Patroklos P. Papapetrou"
+      ],
+      [
+        "Alex Holmes"
+      ],
+      [
+        "Javid Jamae",
+        "Peter Johnson"
+      ],
+      [
+        "Jos Dirksen"
+      ],
+      [
+        "Matthew D. Groves"
+      ],
+      [
+        "Raymond Roestenburg",
+        "Rob Bakker",
+        "Rob Williams",
+        "Steven Haines"
+      ],
+      [
+        "Elijah Meeks"
+      ],
+      [
+        "Shawn Bayern"
+      ],
+      [
+        "Tim Maher"
+      ],
+      [
+        "Grant S. Ingersoll",
+        "Thomas S. Morton",
+        "",
+        "Andrew L. Farris"
+      ],
+      [
+        "Bernerd Allmon",
+        "Jeremy Anderson"
+      ],
+      [
+        "Joey Lott",
+        "Kathryn Rotondo",
+        "Sam Ahn",
+        "Ashley Atkins"
+      ],
+      [
+        "Naomi R. Ceder"
+      ],
+      [
+        "Clinton Begin",
+        "Brandon Goodin",
+        "Larry Meadors"
+      ],
+      [
+        "Warren Sande",
+        "Carter Sande"
+      ],
+      [
+        "Nishant Sivakumar"
+      ],
+      [
+        "Peter Hilton",
+        "Erik Bakker",
+        "",
+        "Francisco Canedo"
+      ],
+      [
+        "Harold Lorin"
+      ],
+      [
+        "Claudio Martella",
+        "Roman Shaposhnik",
+        "",
+        "Dionysios Logothetis"
+      ],
+      [
+        "Amanda Laucher"
+      ],
+      [
+        "Ola Ellnestam",
+        "Daniel Brolund"
+      ],
+      [
+        "Holly Cummins",
+        "Timothy Ward"
+      ],
+      [
+        "Florian Müller",
+        "Jay Brown",
+        "Jeff Potts"
+      ],
+      [
+        "Bear Bibeault",
+        "Yehuda Katz",
+        "",
+        "Aurelio De Rosa"
+      ],
+      [
+        "Gavin M. Roy"
+      ],
+      [
+        "Erik Hatcher",
+        "Otis Gospodnetic"
+      ],
+      [
+        "William R. Cockayne and Michael Zyda",
+        "editors"
+      ],
+      [
+        "Patrick Lightbody",
+        "Jason Carreira"
+      ],
+      [
+        "Robert Kabacoff"
+      ],
+      [
+        "Samuel M. Breed",
+        "Cole Krumbholz",
+        "",
+        "Phillip Whisenhunt"
+      ],
+      [
+        "Merlin Hughes",
+        "Michael Shoffner",
+        "",
+        "Derek Hamner"
+      ],
+      [
+        "Paul Messick"
+      ],
+      [
+        "Sean Owen",
+        "Robin Anil",
+        "Ted Dunning",
+        "",
+        "Ellen Friedman"
+      ],
+      [
+        "Jerome Louvel",
+        "Thierry Boileau",
+        "",
+        "Philippe Mougin"
+      ],
+      [
+        "Erik Hatcher",
+        "Steve Loughran"
+      ],
+      [
+        "Rene Rubalcava"
+      ],
+      [
+        "Joshua D. Suereth"
+      ],
+      [
+        "MIchael Barlotta"
+      ],
+      [
+        "Chris A. Mattmann",
+        "Jukka L. Zitting"
+      ],
+      [
+        "Daniel Selman"
+      ],
+      [
+        "Roland Kuhn",
+        "Jamie Allen"
+      ],
+      [
+        "Satnam Alag"
+      ],
+      [
+        "Matthew Robinson",
+        "Pavel Vorobiev"
+      ],
+      [
+        "Adam Tacy",
+        "Robert Hanson",
+        "Jason Essington",
+        "",
+        "Anna Tökke"
+      ],
+      [
+        "Matthew Carver"
+      ],
+      [
+        "Thomas B. Passin"
+      ],
+      [
+        "Tomas Petricek",
+        "Phillip Trelford"
+      ],
+      [
+        "Darren Neimke"
+      ],
+      [
+        "Benjamin G. Sullins",
+        "Mark B. Whipple"
+      ],
+      [
+        "Jeffrey Machols"
+      ],
+      [
+        "Brian Ford",
+        "Lukas Ruebbelke"
+      ],
+      [
+        "Mike McQuaid"
+      ],
+      [
+        "Debu Panda",
+        "Reza Rahman",
+        "Ryan Cuprak",
+        "",
+        "Michael Remijan"
+      ],
+      [
+        "Tim Jenness",
+        "Simon Cozens"
+      ],
+      [
+        "Michael Rosing"
+      ],
+      [
+        "Ryan Bigg",
+        "Yehuda Katz"
+      ],
+      [
+        "Bruce Snyder",
+        "Dejan Bosanac",
+        "",
+        "Rob Davies"
+      ],
+      [
+        "Tijs Rademakers",
+        "Jos Dirksen"
+      ],
+      [
+        "Brett Lonsdale",
+        "Nick Swan"
+      ],
+      [
+        "Kermit Project at Columbia University"
+      ],
+      [
+        "Amit Rathore"
+      ],
+      [
+        "Douglas W. Bennett"
+      ],
+      [
+        "Timothy Binkley-Jones",
+        "Massimo Perga",
+        "",
+        "Michael Sync"
+      ],
+      [
+        "Nicholas Dimiduk",
+        "Amandeep Khurana"
+      ],
+      [
+        "Nicolas Leroux",
+        "Sietse de Kaper"
+      ],
+      [
+        "Theodore J. (T.J.) VanToll III"
+      ],
+      [
+        "Rod Colledge"
+      ],
+      [
+        "Joe McGinn"
+      ],
+      [
+        "Jonathan Campos"
+      ],
+      [
+        "Jesus Garcia",
+        "Grgur Grisogono",
+        "",
+        "Jacob K. Andresen"
+      ],
+      [
+        "Dave Johnson"
+      ],
+      [
+        "Michael Barlotta"
+      ],
+      [
+        "Claus Ibsen",
+        "Jonathan Anstey"
+      ],
+      [
+        "Don Jones",
+        "Jeffery Hicks"
+      ],
+      [
+        "Ramnivas Laddad"
+      ],
+      [
+        "Simon Laws",
+        "Mark Combellack",
+        "Raymond Feng",
+        "Haleh Mahbod",
+        "Simon Nash"
+      ],
+      [
+        "Qusay H. Mahmoud"
+      ],
+      [
+        "Monsur Hossain"
+      ],
+      [
+        "Levi Asher",
+        "Christian Crumlish"
+      ],
+      [
+        "Paul S. Hethmon"
+      ],
+      [
+        "Ben Vinegar",
+        "Anton Kovalyov"
+      ],
+      [
+        "Josiah Carlson"
+      ],
+      [
+        "Matthias Kaeppler",
+        "Michael D. Galpin",
+        "Charlie Collins"
+      ],
+      [
+        "Debu Panda",
+        "Reza Rahman",
+        "Derek Lane"
+      ],
+      [
+        "Mark Wilson",
+        "Tracey Wilson"
+      ],
+      [
+        "Rob Crowther",
+        "Joe Lennon",
+        "Ash Blue",
+        "",
+        "Greg Wanish"
+      ],
+      [
+        "Craig Walls",
+        "Norman Richards"
+      ],
+      [
+        "Roy Osherove"
+      ],
+      [
+        "Nilanjan Raychaudhuri"
+      ],
+      [
+        "Peter Armstrong"
+      ],
+      [
+        "Oliver Drobnik"
+      ],
+      [
+        "Ken Rimple",
+        "Srini Penchikala"
+      ],
+      [
+        "Chris Hay",
+        "Brian H. Prince"
+      ],
+      [
+        "Tariq Ahmed",
+        "Dan Orlando",
+        "John C. Bland II",
+        "Joel Hooks"
+      ],
+      [
+        "Dagfinn Reiersøl with Marcus Baker",
+        "Chris Shiflett"
+      ],
+      [
+        "Hanumant Deshmukh",
+        "Jignesh Malavia"
+      ],
+      [
+        "Joshua Suereth",
+        "Matthew Farwell"
+      ],
+      [
+        "Timothy D. Korson",
+        "Vijay K. Vaishnavi"
+      ],
+      [
+        "Ronny Richardson"
+      ],
+      [
+        "Kyle Banker"
+      ],
+      [
+        "Christian Bauer",
+        "Gavin King",
+        "",
+        "Gary Gregory"
+      ],
+      [
+        "Richard S. Hall",
+        "Karl Pauls",
+        "Stuart McCulloch",
+        "",
+        "David Savage"
+      ],
+      [
+        "Stephen C. Drye",
+        "William C. Wake"
+      ],
+      [
+        "Don Jones"
+      ],
+      [
+        "Erik Keller"
+      ],
+      [
+        "Martien Verbruggen"
+      ],
+      [
+        "Robert Hanson",
+        "Adam Tacy"
+      ],
+      [
+        "Compiled",
+        "introduced by Ted Lewis"
+      ],
+      [
+        "Richard Brooks"
+      ],
+      [
+        "Joachim Haagen Skeie"
+      ],
+      [
+        "Jamil Azher"
+      ],
+      [
+        "Dierk Koenig with Andrew Glover",
+        "Paul King",
+        "Guillaume Laforge",
+        "Jon Skeet"
+      ],
+      [
+        "Evan M. Hahn"
+      ],
+      [
+        "Mala Gupta"
+      ],
+      [
+        "John F. Smart"
+      ],
+      [
+        "Donald Brown",
+        "Chad Michael Davis",
+        "",
+        "Scott Stanlick"
+      ],
+      [
+        "John E. Grayson"
+      ],
+      [
+        "Tim Hatton"
+      ],
+      [
+        "Simon Morris"
+      ],
+      [
+        "Iain Shigeoka"
+      ],
+      [
+        "Bruce Tate",
+        "Mike Clark",
+        "Bob Lee",
+        "Patrick Linskey"
+      ],
+      [
+        "James P. White",
+        "David A. Hemphill"
+      ],
+      [
+        "Daniele Bochicchio",
+        "Stefano Mostarda",
+        "",
+        "Marco De Sanctis"
+      ],
+      [
+        "Anthony Patton"
+      ],
+      [
+        "Richard Scott Mark"
+      ],
+      [
+        "Dave Crane",
+        "Jord Sonneveld and Bear Bibeault with Ted Goddard",
+        "Chris Gray",
+        "Ram Venkataraman",
+        "Joe Walker"
+      ],
+      [
+        "Anthony Williams"
+      ],
+      [
+        "Matthew Scarpino",
+        "Stephen Holder",
+        "Stanford Ng",
+        "",
+        "Laurent Mihalkovic"
+      ],
+      [
+        "Stefan Hepper",
+        "Peter Fischer",
+        "Stephan Hesmer",
+        "Richard Jacob",
+        "David Sean Taylor"
+      ],
+      [
+        "Bruce Trask",
+        "Angel Roman"
+      ],
+      [
+        "Benjamin Muschko"
+      ],
+      [
+        "Brendan G. Lim",
+        "Martin Conte Mac Donell"
+      ],
+      [
+        "Bear Bibeault",
+        "Yehuda Katz"
+      ],
+      [
+        "Chris Richardson"
+      ],
+      [
+        "Paula Beer",
+        "Carl Simmons"
+      ],
+      [
+        "Simon Holmes"
+      ],
+      [
+        "Steven J. Gutz"
+      ],
+      [
+        "Tijs Rademakers"
+      ],
+      [
+        "Maria Winslow"
+      ],
+      [
+        "Galina Landres",
+        "Vlad Landres"
+      ],
+      [
+        "Stefano Mostarda",
+        "Marco De Sanctis",
+        "",
+        "Daniele Bochicchio"
+      ],
+      [
+        "Bruce Payette"
+      ],
+      [
+        "Peter Harrington"
+      ],
+      [
+        "Arnon Rotem-Gal-Oz"
+      ],
+      [
+        "Mike Cantelon",
+        "Marc Harter",
+        "T.J. Holowaychuk",
+        "",
+        "Nathan Rajlich"
+      ],
+      [
+        "Nathan Marz",
+        "James Warren"
+      ],
+      [
+        "Keith B. Wood"
+      ],
+      [
+        "Tom Cervenka"
+      ],
+      [
+        "Bret Updegraff"
+      ],
+      [
+        "Anthony Briggs"
+      ],
+      [
+        "Contributions from 53 SQL Server MVPs; Edited by Paul Nielsen",
+        "Kalen Delaney",
+        "Greg Low",
+        "Adam Machanic",
+        "Paul S. Randal",
+        "",
+        "Kimberly L. Tripp"
+      ],
+      [
+        "Fabrice Marguerie",
+        "Steve Eichert",
+        "Jim Wooley"
+      ],
+      [
+        "Paul Nielsen",
+        "Kalen Delaney",
+        "Greg Low",
+        "Adam Machanic",
+        "Paul S. Randal",
+        "",
+        "Kimberly L. Tripp"
+      ],
+      [
+        "Jeffrey Palermo",
+        "Ben Scheirman",
+        "Jimmy Bogard",
+        "Eric Hexter",
+        "",
+        "Matthew Hinze"
+      ],
+      [
+        "Craig Walls with Ryan Breidenbach"
+      ],
+      [
+        "Willie Wheeler with Joshua White"
+      ],
+      [
+        "Don Jones",
+        "Jeffery Hicks",
+        "",
+        "Richard Siddaway"
+      ],
+      [
+        "Clayton Donley"
+      ],
+      [
+        "Jonas Partner",
+        "Aleksa Vukotic",
+        "",
+        "Nicki Watt"
+      ],
+      [
+        "Ryan Bigg",
+        "Yehuda Katz",
+        "and Steve Klabnik",
+        ""
+      ],
+      [
+        "Robert Chapman"
+      ],
+      [
+        "Nicolas G. Bevacqua"
+      ],
+      [
+        "C. Wayne Brown",
+        "Barry J. Shepherd"
+      ],
+      [
+        "Chuck Lam"
+      ],
+      [
+        "Duane K. Fields",
+        "Mark A. Kolb"
+      ],
+      [
+        "Saša Juric´"
+      ],
+      [
+        "Peter J. Kovach"
+      ],
+      [
+        "Ian W. Stirk"
+      ],
+      [
+        "Daniel Minoli",
+        "Thomas W. Golway",
+        "",
+        "Norris P. Smith"
+      ],
+      [
+        "Gabe Zichermann",
+        "Chris Cunningham"
+      ],
+      [
+        "Ted N. Husted",
+        "Cedric Dumoulin",
+        "George Franciscus",
+        "David Winterfeldt"
+      ],
+      [
+        "Kenneth P. Birman"
+      ],
+      [
+        "Petar Tahchiev",
+        "Felipe Leme",
+        "Vincent Massol",
+        "",
+        "Gary Gregory"
+      ],
+      [
+        "Greg Smith",
+        "Ahmed Sidky"
+      ],
+      [
+        "Don Jones",
+        "Richard Siddaway",
+        "",
+        "Jeffery Hicks"
+      ],
+      [
+        "Teo Lachev"
+      ],
+      [
+        "Fergal Grimes"
+      ],
+      [
+        "Galina",
+        "Vlad Landres"
+      ],
+      [
+        "Lasse Koskela"
+      ],
+      [
+        "Michael Fogus",
+        "Chris Houser"
+      ],
+      [
+        "Jim Jackson",
+        "II",
+        "Ian Gilman"
+      ],
+      [
+        "Daniel C. Lynch",
+        "James P. Gray",
+        "and Edward Rabinovitch",
+        "editors"
+      ],
+      [
+        "Robert Cooper",
+        "Charles Collins"
+      ],
+      [
+        "J. B. Rainsberger with contributions by Scott Stirling"
+      ],
+      [
+        "Dimitri Aivaliotis"
+      ],
+      [
+        "James Bannan"
+      ],
+      [
+        "Dierk König",
+        "Guillaume Laforge",
+        "Paul King",
+        "Cédric Champeau",
+        "Hamlet D'Arcy",
+        "Erik Pragt",
+        "",
+        "Jon Skeet"
+      ],
+      [
+        "Dean Alan Hume"
+      ],
+      [
+        "Nina Zumel",
+        "John Mount"
+      ],
+      [
+        "Matthew Scarpino"
+      ],
+      [
+        "Jocelyn Harrington",
+        "Brandon Trebitowski",
+        "Christopher Allen",
+        "",
+        "Shannon Appelcline"
+      ],
+      [
+        "Paul A. Boag"
+      ],
+      [
+        "W. Frank Ableson",
+        "Charlie Collins",
+        "Robi Sen"
+      ],
+      [
+        "Benjamin L. Kovitz"
+      ],
+      [
+        "Arnaud Cogoluegnes",
+        "Thierry Templier",
+        "",
+        "Andy Piper"
+      ],
+      [
+        "Paul Sanghera"
+      ],
+      [
+        "Bruce Simpson",
+        "John Mitchell",
+        "Brian Christeson",
+        "Rehan Zaidi",
+        "",
+        "Jonathan Levine"
+      ],
+      [
+        "Early Stephens"
+      ],
+      [
+        "Steven Gutz"
+      ],
+      [
+        "David A. Black"
+      ],
+      [
+        "Kenneth A. Kousen"
+      ],
+      [
+        "Ted Neward"
+      ],
+      [
+        "Michael S. Mikowski",
+        "Josh C. Powell"
+      ],
+      [
+        "Wynn Netherland",
+        "Nathan Weizenbaum",
+        "Chris Eppstein",
+        "",
+        "Brandon Mathis"
+      ],
+      [
+        "Chad A. Campbell",
+        "John Stockton"
+      ],
+      [
+        "Pete Brown"
+      ],
+      [
+        "Jeffrey Palermo",
+        "Ben Scheirman",
+        "",
+        "Jimmy Bogard"
+      ],
+      [
+        "Michael Hüttermann"
+      ],
+      [
+        "Robert I. Kabacoff"
+      ],
+      [
+        "Vincent Massol with Ted Husted"
+      ],
+      [
+        "Matt Pearson"
+      ],
+      [
+        "Daryl Harms",
+        "Kenneth McDonald"
+      ],
+      [
+        "Jack Herrington"
+      ],
+      [
+        "Lawrence H. Rodrigues"
+      ],
+      [
+        "Ajamu A. Wesley"
+      ],
+      [
+        "John Resig"
+      ],
+      [
+        "Patrick Lee"
+      ],
+      [
+        "Evan Rosen"
+      ],
+      [
+        "Yvonne M. Harryman"
+      ],
+      [
+        "David Wood",
+        "Marsha Zaidman",
+        "Luke Ruth",
+        "with Michael Hausenblas"
+      ],
+      [
+        "Steve Loughran",
+        "Erik Hatcher"
+      ],
+      [
+        "Philipp K. Janert"
+      ],
+      [
+        "Haralambos Marmanis",
+        "Dmitry Babenko"
+      ],
+      [
+        "Jason C. Helmick"
+      ],
+      [
+        "Daniel G. McCreary",
+        "Ann M. Kelly"
+      ],
+      [
+        "Kalen Delaney",
+        "Louis Davidson",
+        "Greg Low",
+        "Brad McGehee",
+        "Paul Nielsen",
+        "Paul Randal",
+        "",
+        "Kimberly Tripp"
+      ],
+      [
+        "Don Jones",
+        "Jeffery D. Hicks"
+      ],
+      [
+        "Ivan Porto Carrero",
+        "Ross A. Baker",
+        "Dave Hrycyszyn",
+        "Stefan Ollinger",
+        "",
+        "Jared Armstrong"
+      ],
+      [
+        "David Nicolette"
+      ],
+      [
+        "Regina Obe",
+        "Leo Hsu"
+      ],
+      [
+        "Brandon Trebitowski",
+        "Christopher Allen",
+        "",
+        "Shannon Appelcline"
+      ],
+      [
+        "Vikram Goyal"
+      ],
+      [
+        "Christopher R. Mitchell"
+      ],
+      [
+        "Paul Chiusano",
+        "Rúnar Bjarnason"
+      ],
+      [
+        "Jeffrey Palermo",
+        "Jimmy Bogard",
+        "Eric Hexter",
+        "Matthew Hinze",
+        "",
+        "Jeremy Skinner"
+      ],
+      [
+        "Hanumant Deshmukh",
+        "Jignesh Malavia",
+        "",
+        "Matthew Scarpino"
+      ],
+      [
+        "Bruno Lowagie"
+      ],
+      [
+        "Alan Dennis"
+      ],
+      [
+        "Warren D. Sande",
+        "Carter Sande"
+      ],
+      [
+        "Brendan G. Lim with Jerry Cheung",
+        "Jeremy McAnally"
+      ],
+      [
+        "Ted Lewis",
+        "friends"
+      ],
+      [
+        "Oren Eini writing as Ayende Rahien"
+      ],
+      [
+        "Richard Sezov",
+        "Jr"
+      ],
+      [
+        "William Back",
+        "Nicholas Goodman",
+        "",
+        "Julian Hyde"
+      ],
+      [
+        "Timothy Binkley-Jones",
+        "Massimo Perga",
+        "Michael Sync",
+        "Adam Benoit"
+      ],
+      [
+        "Ajay Kapur",
+        "Perry Cook",
+        "Spencer Salazar",
+        "",
+        "Ge Wang"
+      ],
+      [
+        "Kevin Hazzard",
+        "Jason Bock"
+      ],
+      [
+        "Regina O. Obe",
+        "Leo S. Hsu"
+      ],
+      [
+        "Emmanuel Bernard",
+        "John Griffin"
+      ],
+      [
+        "Andres Almiray",
+        "Danno Ferrin",
+        "",
+        "James Shingler"
+      ],
+      [
+        "Martin Logan",
+        "Eric Merritt",
+        "",
+        "Richard Carlsson"
+      ],
+      [
+        "Craig Walls"
+      ],
+      [
+        "Kyle Baley",
+        "Donald Belcham"
+      ],
+      [
+        "Jothy Rosenberg",
+        "Arthur Mateos"
+      ],
+      [
+        "David Cross"
+      ],
+      [
+        "Martin Evans",
+        "Joshua Noble",
+        "",
+        "Jordan Hochenbaum"
+      ],
+      [
+        "Alex Young",
+        "Marc Harter"
+      ],
+      [
+        "Ashish Sarin"
+      ],
+      [
+        "Norman Maurer",
+        "Courtney Robinson"
+      ],
+      [
+        "Itamar Syn-Hershko"
+      ],
+      [
+        "Ricardo Alcocer"
+      ],
+      [
+        "Brian Ketelsen",
+        "Erik St. Martin",
+        "",
+        "William Kennedy"
+      ],
+      [
+        "Michael J. Barlotta",
+        "Jason R. Weiss"
+      ],
+      [
+        "Martijn Dashorst",
+        "Eelco Hillenius"
+      ],
+      [
+        "Patrick Peak",
+        "Nick Heudecker"
+      ],
+      [
+        "Kyle Banker",
+        "Peter Bakkum",
+        "Tim Hawkins",
+        "Shaun Verch",
+        "",
+        "Douglas Garrett"
+      ],
+      [
+        "Bradley Austin Davis",
+        "Karen Bryla",
+        "",
+        "Alex Benton"
+      ],
+      [
+        "Cody Bumgardner"
+      ],
+      [
+        "Michael J. Barlotta"
+      ],
+      [
+        "Rob Allen",
+        "Nick Lo",
+        "Steven Brown"
+      ],
+      [
+        "Jon Skeet"
+      ],
+      [
+        "Margaret M. Burnett",
+        "Adele Goldberg",
+        "",
+        "Ted G. Lewis"
+      ],
+      [
+        "David Dossot",
+        "John D'Emic"
+      ],
+      [
+        "Gregory M. Travis"
+      ],
+      [
+        "Howard M. Lewis Ship"
+      ],
+      [
+        "Kyle Lussier"
+      ],
+      [
+        "Marcus Hammarberg",
+        "Joakim Sunden"
+      ],
+      [
+        "Alvaro Videla",
+        "Jason J.W. Williams"
+      ],
+      [
+        "Radu Gheorghe",
+        "Matthew Lee Hinman"
+      ],
+      [
+        "Richard L. Saltzer",
+        "Istvan Szegedi"
+      ],
+      [
+        "Joseph Hocking"
+      ],
+      [
+        "Raoul-Gabriel Urma",
+        "Mario Fusco",
+        "",
+        "Alan Mycroft"
+      ],
+      [
+        "Dave Crane",
+        "Eric Pascarello with Darren James"
+      ],
+      [
+        "Kito D. Mann"
+      ],
+      [
+        "Eric Pulier and Hugh Taylor",
+        "Foreword by Paul Gaffney"
+      ],
+      [
+        "Julio C. Ody"
+      ],
+      [
+        "Trey Grainger",
+        "Timothy Potter"
+      ],
+      [
+        "Erik Hatcher",
+        "Otis Gospodnetic",
+        "",
+        "Michael McCandless"
+      ],
+      [
+        "Rob Crowther"
+      ],
+      [
+        "Randy Abernethy"
+      ],
+      [
+        "Sean Allen",
+        "Peter Pathirana",
+        "",
+        "Matthew Jankowski"
+      ],
+      [
+        "Glen Smith",
+        "Peter Ledbrook"
+      ],
+      [
+        "Timothy Perrett"
+      ],
+      [
+        "Ronny Richardson",
+        "Michael Shoffner",
+        "Marq Singer",
+        "Bruce Murray",
+        "",
+        "Jack Gambol"
+      ],
+      [
+        "Noel Yuhanna"
+      ],
+      [
+        "Peter M. Brown"
+      ],
+      [
+        "Dhanji R. Prasanna"
+      ],
+      [
+        "W. Frank Ableson",
+        "Robi Sen",
+        "Chris King",
+        "C. Enrique Ortiz"
+      ],
+      [
+        "Trygve Reenskaug"
+      ],
+      [
+        "Emmit A. Scott",
+        "Jr."
+      ],
+      [
+        "Carlos M. Sessa"
+      ],
+      [
+        "Noel Rappin",
+        "Robin Dunn"
+      ],
+      [
+        "Ramarao Kanneganti",
+        "Prasad A. Chodavarapu"
+      ],
+      [
+        "Tony DeLia",
+        "Galina Landres",
+        "Isidor Rivera",
+        "Prakash Sankaran"
+      ],
+      [
+        "Contributions from 53 SQL Server MVPs",
+        "Edited by Paul Nielsen",
+        "Kalen Delaney",
+        "Greg Low",
+        "Adam Machanic",
+        "Paul S. Randal",
+        "",
+        "Kimberly L. Tripp"
+      ],
+      [
+        "Edited by Jeffery Hicks",
+        "Richard Siddaway",
+        "Oisin Grehan",
+        "",
+        "Aleksandar Nikolic"
+      ],
+      [
+        "Rick Umali"
+      ],
+      [
+        "Mark Seemann"
+      ],
+      [
+        "Jeremy McAnally",
+        "Assaf Arkin"
+      ],
+      [
+        "Richard Siddaway"
+      ],
+      [
+        "Phil Wicklund"
+      ],
+      [
+        "Alan R. Williamson"
+      ],
+      [
+        "Peter Small"
+      ],
+      [
+        "Andrew Schmidt",
+        "Daniel Minoli"
+      ],
+      [
+        "Christian Bauer",
+        "Gavin King"
+      ],
+      [
+        "Jeff Davis"
+      ],
+      [
+        "Dave Crane",
+        "Bear Bibeault with Tom Locke"
+      ],
+      [
+        "Dan Allen"
+      ],
+      [],
+      [
+        "Bear P. Cahill"
+      ],
+      [
+        "Jon Barrilleaux"
+      ],
+      [
+        "Tariq Ahmed with Jon Hirschi",
+        "Faisal Abid"
+      ],
+      [
+        "Wictor Wilén"
+      ],
+      [
+        "David Dossot",
+        "John D'Emic",
+        "",
+        "Victor Romero"
+      ],
+      [
+        "Henrik Brink",
+        "Joseph Richards"
+      ],
+      [
+        "Chris Buckett"
+      ],
+      [
+        "Avi Pfeffer"
+      ],
+      [
+        "W. Frank Ableson",
+        "Robi Sen"
+      ],
+      [
+        "Chris Garrard"
+      ],
+      [
+        "Christopher Allen",
+        "Shannon Appelcline"
+      ],
+      [
+        "Pierre Henri Kuate",
+        "Tobin Harris",
+        "Christian Bauer",
+        "",
+        "Gavin King"
+      ],
+      [
+        "Kevin O'Malley"
+      ],
+      [
+        "Andrew L. Johnson"
+      ],
+      [
+        "Daniel Minoli",
+        "Andrew Schmidt"
+      ],
+      [
+        "Charlie Collins",
+        "Michael D. Galpin",
+        "",
+        "Matthias Kaeppler"
+      ],
+      [
+        "JD \"Illiad\" Frazer"
+      ],
+      [
+        "Craig Walls",
+        "Ryan Breidenbach"
+      ],
+      [
+        "Marcin Kawalerowicz",
+        "Craig Berntson"
+      ],
+      [
+        "Robert A. Rice Jr."
+      ],
+      [
+        "Aslam Khan"
+      ],
+      [
+        "Damian Conway"
+      ],
+      [
+        "Vikas Hazrati",
+        "Balaji D Loganathan"
+      ]
+    ]
+  }

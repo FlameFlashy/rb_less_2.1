@@ -1,0 +1,2 @@
+{founded_year: {$gt:1996}, category_code: "web"}
+{pageCount: {$lt:500}, authors: "Gojko Adzic"}
